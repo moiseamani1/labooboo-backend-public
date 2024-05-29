@@ -6,6 +6,8 @@ A backend server to a short-term rental platform. This is an initial solution fo
 
 Social Media Link: https://www.instagram.com/labooboo.inc/
 
+src code in private repository
+
 ## Features
 
 - **User Management**: Secure registration and login, profile management, mode toggling.
